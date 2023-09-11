@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/invisiblewatermark.iml" filepath="$PROJECT_DIR$/.idea/invisiblewatermark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyinvisiblewatermark/.idea/pyinvisiblewatermark.iml" filepath="$PROJECT_DIR$/../pyinvisiblewatermark/.idea/pyinvisiblewatermark.iml" />
     </modules>
   </component>
 </project>
