@@ -1,6 +1,8 @@
 # 图片隐水印生成/解码
 
-复刻![https://invisiblewatermark.net/](https://invisiblewatermark.net/)的python版本实现。
+复刻[https://invisiblewatermark.net/](https://invisiblewatermark.net/)的python版本实现。
+
+算法原理，参见:[https://invisiblewatermark.net/how-invisible-watermarks-work](https://invisiblewatermark.net/how-invisible-watermarks-work)
 
 ## 安装
 
