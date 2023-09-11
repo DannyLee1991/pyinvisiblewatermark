@@ -7,7 +7,7 @@
 ## 安装
 
 ```
-pip3 install invisiblewatermark
+pip3 install pyinvisiblewatermark
 ```
 
 ## 使用

@@ -1,9 +1,11 @@
 [tool.poetry]
-name = "invisiblewatermark"
+name = "pyinvisiblewatermark"
 version = "0.1.0"
 description = ""
 authors = ["lijianan <lijianan@tezign.com>"]
 readme = "README.md"
+homepage = "https://github.com/DannyLee1991/invisiblewatermark"
+repository = "https://github.com/DannyLee1991/invisiblewatermark"
 
 [tool.poetry.dependencies]
 python = "^3.9"

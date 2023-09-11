@@ -1,4 +1,4 @@
-import invisiblewatermark as ivwm
+import pyinvisiblewatermark as ivwm
 
 # 图片加水印示例
 ivwm.generate_watermark(
