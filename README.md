@@ -26,7 +26,7 @@ ivwm decode $INPUT_IMAGE_PATH $OUTPUT_IMAGE_PATH
 
 ```python
 # encode
-import invisiblewatermark as ivwm
+import pyinvisiblewatermark as ivwm
 
 ivwm.generate_watermark(
     img_fp="data/origin.png",
@@ -38,7 +38,7 @@ ivwm.generate_watermark(
 
 ```python
 # decode
-import invisiblewatermark as ivwm
+import pyinvisiblewatermark as ivwm
 
 # 图片加水印示例
 ivwm.extract_watermark(
